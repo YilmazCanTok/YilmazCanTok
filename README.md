@@ -13,6 +13,7 @@
 <img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"/>
 <br />
 
+<br />
 [Gmail] : yilmazcantok89@gmail.com
 <br />
 [Linkedin] : https://www.linkedin.com/in/yılmaz-can-tok/
