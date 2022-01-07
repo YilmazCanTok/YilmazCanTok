@@ -14,7 +14,9 @@
 <br />
 
 [Gmail] : yilmazcantok89@gmail.com
+<br />
 [Linkedin] : https://www.linkedin.com/in/yılmaz-can-tok/
+<br />
 [Instagram] : https://www.instagram.com/yilmazcantok/
  
  <br />
