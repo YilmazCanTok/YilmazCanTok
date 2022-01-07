@@ -11,7 +11,7 @@
 <img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>
 
 <img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"/>
-<br />
+
 
 <br />
 [Gmail] : yilmazcantok89@gmail.com
