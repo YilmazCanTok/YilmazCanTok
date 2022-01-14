@@ -1,4 +1,4 @@
-<img src = "https://i.ytimg.com/vi/RSA5QESVNDM/maxresdefault.jpg" align="right" width="400" height ="300">
+<img src = "https://i.ytimg.com/vi/RSA5QESVNDM/maxresdefault.jpg" align="right" width="400" height ="250">
 
 ### Hi there, I'm Yılmaz. :smile:
 ---
